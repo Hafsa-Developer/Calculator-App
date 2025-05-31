@@ -23,7 +23,7 @@ A simple and beautiful calculator with a modern UI. Built using:
 
 ## Screenshot
 
-![Calculator UI](preview.png)
+![Calculator UI](Preview.png)
 
 ---
 
